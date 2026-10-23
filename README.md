@@ -2,7 +2,6 @@
 
 ## Integrantes
 - Maria Clara Pacito Seleguim
-- 
 ## Tema do Projeto
 Gerenciamento de Contatos
 
